@@ -36,5 +36,5 @@ h5端：http://223.247.221.197:8084
 
 | 支付宝 | 微信支付 |
 | :------: | :------: |
-| ![alipay](/实施输出/截图/alipay.jpg) | ![wepay](/实施输出/截图/wechat.jpg) |
+| ![alipay](/实施输出/截图/alipay.jpg) | ![wepay](/实施输出/截图/wechant.jpg) |
 
